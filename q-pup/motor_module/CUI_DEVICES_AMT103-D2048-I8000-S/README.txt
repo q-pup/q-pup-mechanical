@@ -1,0 +1,1 @@
+Downloaded from https://www.cuidevices.com/product/resource/digikey3dmodel/amt10-series/amt103-d2048-i8000-s
