@@ -1,0 +1,10 @@
+Hip Bracket:        60mm
+Upper Knee Bracket: 16mm
+Lower Knee Bracket: 31mm
+Foot Bracket:        0mm  *** May change
+
+
+Thigh Bone Length: 40cm + 60mm - 16mm = 44.4 cm
+Shin Bone Length:  35cm - 31mm -  0mm = 31.9 cm
+
+CAD files generated using https://8020.net/1010.html
