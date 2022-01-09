@@ -1,0 +1,17 @@
+﻿"tol_dia_id_intfc" = 0.0500mm ' For hole diameters - Interference fit
+"tol_dia_id_slip"  = 0.0750mm ' For hole diameters - Slip fit
+"tol_dia_id_clear" = 0.1000mm ' For hole diameters - Clearance fit
+
+"tol_dia_od_intfc" = 0.0500mm ' For shaft diameters - Interference fit
+"tol_dia_od_slip"  = 0.0750mm ' For shaft diameters - Slip fit
+"tol_dia_od_clear" = 0.1000mm ' For shaft diameters - Clearance fit
+
+"tol_general_intfc"= 0.0250mm ' For general parts (Horiz) - Interference fit
+"tol_general_slip" = 0.0375mm ' For general parts (Horiz) - Slip fit
+"tol_general_clear"= 0.0500mm ' For general parts (Horiz) - Clearance fit
+
+"tol_layer_intfc"  = 0.0250mm ' For all parts (Vert) - Interference fit
+"tol_layer_slip"   = 0.0375mm ' For all parts (Vert) - Slip fit
+"tol_layer_clear"  = 0.0500mm ' For all parts (Vert) - Clearance fit
+
+"tol_corner_rad"   = 0.100mm ' For corners that fit into other parts
