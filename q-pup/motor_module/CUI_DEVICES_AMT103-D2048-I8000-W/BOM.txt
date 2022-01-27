@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: AMT10 Axial, Adjustable Resolution, 2048 PPR, Single Index Pulse, 8 mm Bore, Wide, Incremental, Capacitive Modular Encoder
+3DX_CUI_DEVICES_Model Number: AMT103-D2048-I8000-W
